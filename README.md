@@ -166,4 +166,12 @@ Just open virtual machine manager and add your graphics card, you should see som
  
 ![xml_bios_config_vm](https://user-images.githubusercontent.com/61742928/128763555-1fa265ff-878c-4236-b66e-bc2663aba3f4.png)
 
+Also make sure to add the vendor id line in the overview as show in here: 
+
+![vendor_id_xml](https://user-images.githubusercontent.com/61742928/128765548-ef98639d-5ccb-45c6-8a9a-e05f6f242ab3.png)
+
+The value can be whatever you want in my case i used test as value.
+
+Before turning it on make sure to elminiate the splice display and Video QXL so it doesnt use an virtualized GPU
+
 You can now boot the machine and everything should work normally, dont forget to install inside the vm your grpahics card drivers as if it was your Host OS

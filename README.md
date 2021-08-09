@@ -4,24 +4,24 @@ This is a fast guide and a repo to save all my configs after succesfully achieve
 
 ## PC Specs
 
-██████████████████  ████████   retama@retama-desktop 
-██████████████████  ████████   --------------------- 
-██████████████████  ████████   OS: Manjaro Linux x86_64 
-██████████████████  ████████   Host: MS-7B79 4.0 
-████████            ████████   Kernel: 5.10.56-1-MANJARO 
-████████  ████████  ████████   Uptime: 1 hour, 16 mins 
-████████  ████████  ████████   Packages: 1066 (pacman) 
-████████  ████████  ████████   Shell: bash 5.1.8 
-████████  ████████  ████████   Resolution: 3839x1080 
-████████  ████████  ████████   DE: Plasma 5.22.4 
-████████  ████████  ████████   WM: KWin 
-████████  ████████  ████████   Theme: Breath2 [Plasma], Breath [GTK2/3] 
-████████  ████████  ████████   Icons: breath2 [Plasma], breath2 [GTK2/3] 
-████████  ████████  ████████   Terminal: konsole 
-                               Terminal Font: Noto Mono 10 
-                               CPU: AMD Ryzen 7 3700X (16) @ 3.600GHz 
-                               GPU: NVIDIA GeForce GTX 1070 
-                               Memory: 2496MiB / 16015MiB 
+    ██████████████████  ████████   retama@retama-desktop 
+    ██████████████████  ████████   --------------------- 
+    ██████████████████  ████████   OS: Manjaro Linux x86_64 
+    ██████████████████  ████████   Host: MS-7B79 4.0 
+    ████████            ████████   Kernel: 5.10.56-1-MANJARO 
+    ████████  ████████  ████████   Uptime: 1 hour, 16 mins 
+    ████████  ████████  ████████   Packages: 1066 (pacman) 
+    ████████  ████████  ████████   Shell: bash 5.1.8 
+    ████████  ████████  ████████   Resolution: 3839x1080 
+    ████████  ████████  ████████   DE: Plasma 5.22.4 
+    ████████  ████████  ████████   WM: KWin 
+    ████████  ████████  ████████   Theme: Breath2 [Plasma], Breath [GTK2/3] 
+    ████████  ████████  ████████   Icons: breath2 [Plasma], breath2 [GTK2/3] 
+    ████████  ████████  ████████   Terminal: konsole 
+                                   Terminal Font: Noto Mono 10 
+                                   CPU: AMD Ryzen 7 3700X (16) @ 3.600GHz 
+                                   GPU: NVIDIA GeForce GTX 1070 
+                                   Memory: 2496MiB / 16015MiB 
 
 ## Steps to achieve
 
